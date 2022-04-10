@@ -1,0 +1,24 @@
+a{
+    width:100px;
+    height:20px;
+    position:absolute;
+    right:650px;
+    top:150px;
+    font-style: bold;
+    font-size: 1.2rem;
+    padding:5px;
+    color: black;
+    text-decoration: none;
+    border-radius: 10px;
+    box-shadow: 3px 5px;
+    font-family: Arial, serif;
+    
+ }
+ body{
+     background-color: lightgrey;
+     display :flex;
+     justify-content: center;
+ }
+ a:active{
+     background-color: white;
+ }
